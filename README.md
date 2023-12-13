@@ -1,5 +1,6 @@
 ### Hi there, I'm <span style="color:blue">Athenkosi Magada</span>👋
 
+## 💫 About Me
 Hello there! 👋 I'm Athenkosi Magada, a passionate and creative software developer based in [Your Location]. I hold a BSc in Computer Science from Nelson Mandela University. My journey in the tech world is a blend of academic excellence and hands-on experience.
 
 ### What I'm Currently Up To
