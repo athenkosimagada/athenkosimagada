@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi there, I'm <span style="color:blue">Athenkosi Magada</span👋
 
 # 💫 About Me:
 🚀 Current Projects: Building a Movie API website using TMDB API.<br>🤝 Open to Collaboration: Interested in collaborating on React JS projects for web development using any tool.<br>👨‍💻 Seeking Opportunities: Actively looking for job or internship opportunities to apply and enhance my skills.<br>📚 Continuous Learning: Currently expanding my skills in UI/UX web design and web development.<br>❓ Ask Me Anything: Have questions? I'm here to help with anything you need.<br>😄 Fun Fact: Fluent in JavaScript, TypeScript, C#, R, Java, and a bit of human too!
 
+🚀 **Current Projects:** Building a Movie API website using TMDB API.
+🤝 **Open to Collaboration:** Interested in collaborating on React JS projects for web development using any tool.
+👨‍💻 **Seeking Opportunities:** Actively looking for job or internship opportunities to apply and enhance my skills.
+📚 **Continuous Learning:** Currently expanding my skills in UI/UX web design and web development.
+❓ **Ask Me Anything:** Have questions? I'm here to help with anything you need.
+😄 **Fun Fact:** Fluent in JavaScript, TypeScript, C#, R, Java, and a bit of human too!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100056291911750&sk=about&_rdc=1&_rdr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/athenkosi_rsa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/athenkosi-magada) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/athenkosi_rsa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@athenkosimagada193) 
