@@ -1,8 +1,6 @@
-### Hi there, I'm <span style="color:blue">Athenkosi Magada</span👋
+### Hi there, I'm <span style="color:blue">Athenkosi Magada</span>👋
 
 # 💫 About Me:
-🚀 Current Projects: Building a Movie API website using TMDB API.<br>🤝 Open to Collaboration: Interested in collaborating on React JS projects for web development using any tool.<br>👨‍💻 Seeking Opportunities: Actively looking for job or internship opportunities to apply and enhance my skills.<br>📚 Continuous Learning: Currently expanding my skills in UI/UX web design and web development.<br>❓ Ask Me Anything: Have questions? I'm here to help with anything you need.<br>😄 Fun Fact: Fluent in JavaScript, TypeScript, C#, R, Java, and a bit of human too!
-
 🚀 **Current Projects:** Building a Movie API website using TMDB API.<br>
 🤝 **Open to Collaboration:** Interested in collaborating on React JS projects for web development using any tool.<br>
 👨‍💻 **Seeking Opportunities:** Actively looking for job or internship opportunities to apply and enhance my skills.<br>
