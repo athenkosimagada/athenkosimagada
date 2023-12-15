@@ -25,7 +25,6 @@ Let's connect and create something amazing together! 🌟
    [Check it out](https://movies-api-ten-phi.vercel.app/).
 
 2. Mbali Civil And Construction Site Figma Design.
-3. 
    ![Mbali Construction Site](https://github.com/athenkosimagada/athenkosimagada/blob/main/Thumbnail%20(1).png)
    [Explore it here](https://www.figma.com/proto/PLsTPlKm65LkFx0T1PF3pa/Mbali-Construction-Site?type=design&node-id=1-29&t=5NT9pk7Gnyo2250y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A29&mode=design)
 
