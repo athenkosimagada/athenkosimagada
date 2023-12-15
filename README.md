@@ -21,11 +21,12 @@ Let's connect and create something amazing together! 🌟
 
 🚀 **Current Projects:**
 1. Building a Movie API website using TMDB API. 
-   ![Movie API](https://www.figma.com/file/krmadqo2kk0fSxB1xLCYxM/StreamVibe-OTT-Platform---Dark-Theme-%7C-Produce-UI-(Community)?type=design&node-id=903-2&mode=design&t=e9bsikLdyEMTRGQ0-4)
+   ![Movie API](https://github.com/athenkosimagada/athenkosimagada/blob/main/Thumbnail%20(2).png)
    [Check it out](https://movies-api-ten-phi.vercel.app/).
 
 2. Mbali Civil And Construction Site Figma Design.
-   ![Mbali Construction Site](https://www.figma.com/file/PLsTPlKm65LkFx0T1PF3pa/Mbali-Construction-Site?type=design&node-id=36-1262&mode=design&t=DnhWH1EpucxQJpDz-4)
+3. 
+   ![Mbali Construction Site](https://github.com/athenkosimagada/athenkosimagada/blob/main/Thumbnail%20(1).png)
    [Explore it here](https://www.figma.com/proto/PLsTPlKm65LkFx0T1PF3pa/Mbali-Construction-Site?type=design&node-id=1-29&t=5NT9pk7Gnyo2250y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A29&mode=design)
 
 ## 🌐 Socials:
