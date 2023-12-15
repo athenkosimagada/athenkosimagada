@@ -19,6 +19,16 @@ Hello there! 👋 I'm Athenkosi Magada, a passionate and creative software devel
 
 Let's connect and create something amazing together! 🌟
 
+
+🚀 **Current Projects:**
+1. Building a Movie API website using TMDB API. 
+   ![Movie API](https://www.figma.com/file/krmadqo2kk0fSxB1xLCYxM/StreamVibe-OTT-Platform---Dark-Theme-%7C-Produce-UI-(Community)?type=design&node-id=903-2&mode=design&t=e9bsikLdyEMTRGQ0-4)
+   [Check it out](https://movies-api-ten-phi.vercel.app/).
+
+2. Mbali Civil And Construction Site Figma Design.
+   ![link_to_image](https://www.figma.com/file/PLsTPlKm65LkFx0T1PF3pa/Mbali-Construction-Site?type=design&node-id=36-1262&mode=design&t=DnhWH1EpucxQJpDz-4)
+   [Explore it here](https://www.figma.com/proto/PLsTPlKm65LkFx0T1PF3pa/Mbali-Construction-Site?type=design&node-id=1-29&t=5NT9pk7Gnyo2250y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A29&mode=design)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100056291911750&sk=about&_rdc=1&_rdr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/athenkosi_rsa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/athenkosi-magada) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/athenkosi_rsa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@athenkosimagada193) 
 
