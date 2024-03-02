@@ -112,7 +112,7 @@
   <div>
     <h6 align="center">2. WebAPI .Net Code & Angular</h6>
     <div align="center">
-      <a href="Link_to_Project_2">
+      <a href="https://github.com/athenkosimagada/mango-angular">
         <img height="200" src="https://media.licdn.com/dms/image/C5112AQFJfJhBv8lo7g/article-cover_image-shrink_720_1280/0/1567710755322?e=2147483647&v=beta&t=jLyspvBCpxhHs9lkJn7Yz42ozSKjihTbt9Jsm885SEM"  />
       </a>
     </div>
@@ -120,15 +120,15 @@
   <div>
     <h6 align="center">3. StreamVibe Movie API Site</h6>
     <div align="center">
-      <a href="Link_to_Project_3">
+      <a href="https://github.com/athenkosimagada/movies_api">
         <img height="200" src="https://github.com/athenkosimagada/assetts/blob/main/streamvibe.png?raw=true"  />
       </a>
     </div>
   </div>
   <div>
-    <h6 align="center">4. Shop.io E-commerce Site</h6>
+    <h6 align="center">4. Shop.co E-commerce Site</h6>
     <div align="center">
-      <a href="Link_to_Project_4">
+      <a href="https://github.com/athenkosimagada/shop-co">
         <img height="200" src="https://github.com/athenkosimagada/assetts/blob/main/shopio.png?raw=true"  />
       </a>
     </div>
