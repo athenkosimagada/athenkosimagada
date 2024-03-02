@@ -1,55 +1,131 @@
-### Hi there, I'm <span style="color:blue">Athenkosi Magada</span>👋
+<div align="center">
+  <img height="150" src="https://github.com/athenkosimagada/assetts/blob/main/athie.png?raw=true"  />
+</div>
 
-## 💫 About Me
-Hello there! 👋 I'm Athenkosi Magada, a passionate and creative software developer based in South Africa. I hold a BSc in Computer Science from Nelson Mandela University. My journey in the tech world is a blend of academic excellence and hands-on experience.
+###
 
-### 👨‍💻 What I'm Currently Up To:
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+</div>
 
-🚀 **Current Projects:** Building a Movie API website using TMDB API.
+###
 
-🤝 **Open to Collaboration:** I'm eager to collaborate on React JS projects for web development using any tool.
+<h1 align="center">hey there 👋</h1>
 
-👨‍💻 **Seeking Opportunities:** Actively searching for job or internship opportunities to apply and enhance my skills.
+###
 
-📚 **Continuous Learning:** Always expanding my skills in UI/UX web design and web development.
+<h3 align="left">👩‍💻  About Me</h3>
 
-❓ **Ask Me Anything:** Have questions? I'm here to help with anything you need.
+###
 
-😄 **Fun Fact:** Fluent in JavaScript, TypeScript, C#, R, Java, and a bit of human too!
+<p align="left">I'm Athenkosi Magda from South Africa<br><br>- 📚 I'm currently learning .Net Full Stack and Angular<br>- ⚡ In my free time I go out for a walk.</p>
 
-Let's connect and create something amazing together! 🌟
+###
 
-🚀 **Current Projects:**
-1. Building a Movie API website using TMDB API. 
-   ![Movie API](https://github.com/athenkosimagada/athenkosimagada/blob/main/Thumbnail%20(2).png)
-   [Check it out](https://movies-api-ten-phi.vercel.app/).
+<h3 align="left">🛠 Language and tools</h3>
 
-2. Mbali Civil And Construction Site Figma Design.
-   ![Mbali Construction Site](https://github.com/athenkosimagada/athenkosimagada/blob/main/Thumbnail%20(1).png)
-   [Explore it here](https://www.figma.com/proto/PLsTPlKm65LkFx0T1PF3pa/Mbali-Construction-Site?type=design&node-id=1-29&t=5NT9pk7Gnyo2250y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A29&mode=design)
+###
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100056291911750&sk=about&_rdc=1&_rdr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/athenkosi_rsa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/athenkosi-magada) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/athenkosi_rsa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@athenkosimagada193) 
+<div align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
+</div>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=athenkosimagada&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=athenkosimagada&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=athenkosimagada&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="left">🔥   My Stats :</h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=athenkosimagada&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=athenkosimagada&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=athenkosimagada&icon=2&color=1)](https://visitcount.itsvg.in)
+<h3 align="left">🎨Portfolio</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<h6 align="center">💻Lastest work</h6>
+
+###
+
+<br clear="both">
+
+<h6 align="left">1. Full Stack Project(Microservices)</h6>
+
+###
+
+<div align="center">
+  <img height="200" src="https://kruschecompany.com/wp-content/uploads/2020/09/Microservices-scaled.jpeg"  />
+</div>
+
+###
+
+<h6 align="left">2. WebAPI .Net Code & Angular</h6>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/C5112AQFJfJhBv8lo7g/article-cover_image-shrink_720_1280/0/1567710755322?e=2147483647&v=beta&t=jLyspvBCpxhHs9lkJn7Yz42ozSKjihTbt9Jsm885SEM"  />
+</div>
+
+###
+
+<h6 align="left">3. StreamVibe Movie API Site</h6>
+
+###
+
+<div align="center">
+  <img height="200" src="https://github.com/athenkosimagada/assetts/blob/main/streamvibe.png?raw=true"  />
+</div>
+
+###
+
+<h6 align="left">4. Shop.io E-commerce Site</h6>
+
+###
+
+<div align="center">
+  <img height="200" src="https://github.com/athenkosimagada/assetts/blob/main/shopio.png?raw=true"  />
+</div>
+
+###
