@@ -16,15 +16,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Athenkosi Magda from South Africa<br><br>- 📚 I'm currently learning .Net Full Stack and Angular<br>- ⚡ In my free time I go out for a walk.</p>
+<p align="center">I'm Athenkosi Magda from South Africa<br><br>📚 I'm currently learning .Net Full Stack and Angular<br>⚡ In my free time I go out for a walk.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats</h3>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<h3 align="left">🎨Portfolio</h3>
+<h3 align="center">🎨Portfolio</h3>
 
 ###
 
@@ -88,9 +88,13 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <br clear="both">
 
-<h6 align="left">1. Full Stack Project(Microservices)</h6>
+<h6 align="center">1. Full Stack Project(Microservices)</h6>
 
 ###
 
@@ -100,7 +104,7 @@
 
 ###
 
-<h6 align="left">2. WebAPI .Net Code & Angular</h6>
+<h6 align="center">2. WebAPI .Net Code & Angular</h6>
 
 ###
 
@@ -110,7 +114,7 @@
 
 ###
 
-<h6 align="left">3. StreamVibe Movie API Site</h6>
+<h6 align="center">3. StreamVibe Movie API Site</h6>
 
 ###
 
@@ -120,7 +124,7 @@
 
 ###
 
-<h6 align="left">4. Shop.io E-commerce Site</h6>
+<h6 align="center">4. Shop.io E-commerce Site</h6>
 
 ###
 
