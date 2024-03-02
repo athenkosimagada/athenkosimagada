@@ -104,7 +104,7 @@
   <div>
     <h6 align="center">1. Full Stack Project(Microservices)</h6>
     <div align="center">
-      <a href="[[Link_to_Project_1]()"](https://github.com/athenkosimagada/mongo-dotnet)>
+      <a href="https://github.com/athenkosimagada/mongo-dotnet>
         <img height="200" src="https://kruschecompany.com/wp-content/uploads/2020/09/Microservices-scaled.jpeg"  />
       </a>
     </div>
