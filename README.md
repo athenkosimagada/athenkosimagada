@@ -87,28 +87,4 @@
       <img height="200" src="https://herobot.app/wp-content/uploads/2022/11/11-Reasons-Why-A-Chat-Application-Is-Great-For-Business_1.jpg" alt="Chat Application" />
     </a>
   </div>
-  <div>
-    <h6 align="center">2. Full Stack Project (Microservices)</h6>
-    <a href="https://github.com/athenkosimagada/mongo-dotnet">
-      <img height="200" src="https://kruschecompany.com/wp-content/uploads/2020/09/Microservices-scaled.jpeg" alt="Microservices" />
-    </a>
-  </div>
-  <div>
-    <h6 align="center">3. WebAPI .Net Core & Angular</h6>
-    <a href="https://github.com/athenkosimagada/mango-angular">
-      <img height="200" src="https://media.licdn.com/dms/image/C5112AQFJfJhBv8lo7g/article-cover_image-shrink_720_1280/0/1567710755322?e=2147483647&v=beta&t=jLyspvBCpxhHs9lkJn7Yz42ozSKjihTbt9Jsm885SEM" alt="WebAPI .Net Core & Angular" />
-    </a>
-  </div>
-  <div>
-    <h6 align="center">4. StreamVibe Movie API Site</h6>
-    <a href="https://github.com/athenkosimagada/movies_api">
-      <img height="200" src="https://github.com/athenkosimagada/assetts/blob/main/streamvibe.png?raw=true" alt="StreamVibe Movie API Site" />
-    </a>
-  </div>
-  <div>
-    <h6 align="center">5. Shop.co E-commerce Site</h6>
-    <a href="https://github.com/athenkosimagada/shop-co">
-      <img height="200" src="https://github.com/athenkosimagada/assetts/blob/main/shopio.png?raw=true" alt="Shop.co E-commerce Site" />
-    </a>
-  </div>
 </div>
