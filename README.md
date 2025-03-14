@@ -78,7 +78,7 @@
            alt="CareerHive Application" />
     </a>
     <p style="font-size: 14px; color: #333;">A job posting and sharing platform that allows users to post job listings, apply, and interact in real time.</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
+    <div style="display: flex; gap: 5px; justify-content: center;">
       <p style="background: #E50000; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">C#</p>
       <p style="background: #232323; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">.NET</p>
       <p style="background: #4CAF50; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">SQL Server</p>
@@ -95,10 +95,10 @@
            alt="Chat Application" />
     </a>
     <p style="font-size: 14px; color: #333;">A full-stack real-time chat application using SignalR for WebSocket communication.</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
-      <p style="background: #E50000; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">C#</p>,
-      <p style="background: #232323; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">SignalR</p>,
-      <p style="background: #4CAF50; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">.NET</p>,
+    <div style="display: flex; gap: 5px; justify-content: center;">
+      <p style="background: #E50000; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">C#</p>
+      <p style="background: #232323; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">SignalR</p>
+      <p style="background: #4CAF50; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">.NET</p>
       <p style="background: #FFCC00; color: black; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Angular</p>
     </div>
   </div>
@@ -112,7 +112,7 @@
            alt="File Organizer" />
     </a>
     <p style="font-size: 14px; color: #333;">An automated system that organizes files based on type, date, and custom rules.</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
+    <div style="display: flex; gap: 5px; justify-content: center;">
       <p style="background: #E50000; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Python</p>
       <p style="background: #232323; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Watchdog</p>
     </div>
