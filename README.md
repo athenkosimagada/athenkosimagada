@@ -74,14 +74,15 @@
     <h6 style="color: #E50000; font-weight: bold;">Career Hive – Job Sharing & Posting Platform</h6>
     <a href="https://github.com/athenkosimagada/SignalR-Application">
       <img src="https://github.com/user-attachments/assets/930aadec-d6c0-4574-8f14-91b94ee82136"
-           style="width: 100%; max-width: 400px; height: 220px; object-fit: cover; border-radius: 8px;" alt="CareerHive Application" />
+           style="width: 100%; aspect-ratio: 16/9; object-fit: cover; object-position: center; border-radius: 8px;" 
+           alt="CareerHive Application" />
     </a>
     <p style="font-size: 14px; color: #333;">A job posting and sharing platform that allows users to post job listings, apply, and interact in real time.</p>
     <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
-      <button style="background: #E50000; color: white; border: none; padding: 5px 10px; border-radius: 5px; font-size: 12px;">C#</button>
-      <button style="background: #232323; color: white; border: none; padding: 5px 10px; border-radius: 5px; font-size: 12px;">.NET</button>
-      <button style="background: #4CAF50; color: white; border: none; padding: 5px 10px; border-radius: 5px; font-size: 12px;">SQL Server</button>
-      <button style="background: #FFCC00; color: black; border: none; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Blazor</button>
+      <button style="background: #E50000; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">C#</button>
+      <button style="background: #232323; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">.NET</button>
+      <button style="background: #4CAF50; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">SQL Server</button>
+      <button style="background: #FFCC00; color: black; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Blazor</button>
     </div>
   </div>
 
@@ -90,14 +91,15 @@
     <h6 style="color: #E50000; font-weight: bold;">Chat Application – Real-time Messaging</h6>
     <a href="https://github.com/athenkosimagada/SignalR-Application">
       <img src="https://herobot.app/wp-content/uploads/2022/11/11-Reasons-Why-A-Chat-Application-Is-Great-For-Business_1.jpg"
-           style="width: 100%; max-width: 400px; height: 220px; object-fit: cover; border-radius: 8px;" alt="Chat Application" />
+           style="width: 100%; aspect-ratio: 16/9; object-fit: cover; object-position: center; border-radius: 8px;" 
+           alt="Chat Application" />
     </a>
     <p style="font-size: 14px; color: #333;">A full-stack real-time chat application using SignalR for WebSocket communication.</p>
     <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
-      <button style="background: #E50000; color: white; border: none; padding: 5px 10px; border-radius: 5px; font-size: 12px;">C#</button>
-      <button style="background: #232323; color: white; border: none; padding: 5px 10px; border-radius: 5px; font-size: 12px;">SignalR</button>
-      <button style="background: #4CAF50; color: white; border: none; padding: 5px 10px; border-radius: 5px; font-size: 12px;">.NET</button>
-      <button style="background: #FFCC00; color: black; border: none; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Angular</button>
+      <button style="background: #E50000; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">C#</button>
+      <button style="background: #232323; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">SignalR</button>
+      <button style="background: #4CAF50; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">.NET</button>
+      <button style="background: #FFCC00; color: black; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Angular</button>
     </div>
   </div>
 
@@ -106,15 +108,14 @@
     <h6 style="color: #E50000; font-weight: bold;">Python Automation – File Management System</h6>
     <a href="https://mbalicivilandconstruction.vercel.app/">
       <img src="https://github.com/user-attachments/assets/06c9c9ad-0642-47a9-8d11-7988d4077aa3"
-           style="width: 100%; max-width: 400px; height: 220px; object-fit: cover; border-radius: 8px;" alt="File Organizer" />
+           style="width: 100%; aspect-ratio: 16/9; object-fit: cover; object-position: center; border-radius: 8px;" 
+           alt="File Organizer" />
     </a>
     <p style="font-size: 14px; color: #333;">An automated system that organizes files based on type, date, and custom rules.</p>
     <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
-      <button style="background: #E50000; color: white; border: none; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Python</button>
-      <button style="background: #232323; color: white; border: none; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Watchdog</button>
+      <button style="background: #E50000; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Python</button>
+      <button style="background: #232323; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Watchdog</button>
     </div>
   </div>
 
 </div>
-
-
