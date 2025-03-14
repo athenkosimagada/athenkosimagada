@@ -66,32 +66,42 @@
 
 <h3 align="center">🎨 Portfolio</h3>
 
-###
-
 <h6 align="center">💻 Latest Work</h6>
 
-###
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  
+  <!-- Project 1 -->
+  <div style="max-width: 400px; text-align: center; background: #f8f8f8; padding: 15px; border-radius: 10px;">
+    <h6 style="color: #E50000; font-weight: bold;">Career Hive – Job Sharing & Posting Platform</h6>
+    <a href="https://github.com/athenkosimagada/SignalR-Application">
+      <img src="https://github.com/user-attachments/assets/930aadec-d6c0-4574-8f14-91b94ee82136"
+           style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" alt="CareerHive Application" />
+    </a>
+    <p style="font-size: 14px; color: #333;">A job posting and sharing platform that allows users to post job listings, apply, and interact in real time.</p>
+    <p style="font-size: 12px; font-weight: bold; color: #4CAF50;">🛠 Tools: C#, SQL Server, .NET, Blazor, JWT, Rate Limit</p>
+  </div>
 
-<div align="center">
-  <div>
-    <h6 align="center">1. Career Hive – Job Sharing & Posting Platform (C#, .NET Core Web API, Clean Architecture)</h6>
+  <!-- Project 2 -->
+  <div style="max-width: 400px; text-align: center; background: #f8f8f8; padding: 15px; border-radius: 10px;">
+    <h6 style="color: #E50000; font-weight: bold;">Chat Application – Real-time Messaging</h6>
     <a href="https://github.com/athenkosimagada/SignalR-Application">
-      <img height="200" src="https://github.com/user-attachments/assets/930aadec-d6c0-4574-8f14-91b94ee82136" alt="CareerHive Application" />
+      <img src="https://herobot.app/wp-content/uploads/2022/11/11-Reasons-Why-A-Chat-Application-Is-Great-For-Business_1.jpg"
+           style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" alt="Chat Application" />
     </a>
-     <p align="center">Tools: C#, SQL Server, .NET, Blazor, JWT, Rate Limit</p>
+    <p style="font-size: 14px; color: #333;">A full-stack real-time chat application using SignalR for WebSocket communication.</p>
+    <p style="font-size: 12px; font-weight: bold; color: #4CAF50;">🛠 Tools: C#, .NET, SignalR, Angular, JWT</p>
   </div>
-  <div>
-    <h6 align="center">2. Full Stack Project (Chat Application – C#, .NET Core, Angular, JWT)</h6>
-    <a href="https://github.com/athenkosimagada/SignalR-Application">
-      <img height="200" src="https://herobot.app/wp-content/uploads/2022/11/11-Reasons-Why-A-Chat-Application-Is-Great-For-Business_1.jpg" alt="Chat Application" />
-    </a>
-     <p align="center">Tools: C#, .NET, SignalR, Angular, JWT</p>
-  </div>
-  <div>
-    <h6 align="center">3. Python Automation – File Management System (Python, Watchdog)</h6>
+
+  <!-- Project 3 -->
+  <div style="max-width: 400px; text-align: center; background: #f8f8f8; padding: 15px; border-radius: 10px;">
+    <h6 style="color: #E50000; font-weight: bold;">Python Automation – File Management System</h6>
     <a href="https://mbalicivilandconstruction.vercel.app/">
-      <img height="200" src="https://github.com/user-attachments/assets/06c9c9ad-0642-47a9-8d11-7988d4077aa3" alt="File Organizer" />
+      <img src="https://github.com/user-attachments/assets/06c9c9ad-0642-47a9-8d11-7988d4077aa3"
+           style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" alt="File Organizer" />
     </a>
-      <p align="center">Tools: Python, Watchdog</p>
+    <p style="font-size: 14px; color: #333;">An automated system that organizes files based on type, date, and custom rules.</p>
+    <p style="font-size: 12px; font-weight: bold; color: #4CAF50;">🛠 Tools: Python, Watchdog</p>
   </div>
+
 </div>
+
