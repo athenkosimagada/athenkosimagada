@@ -79,42 +79,42 @@
     </a>
     <p style="font-size: 14px; color: #333;">A job posting and sharing platform that allows users to post job listings, apply, and interact in real time.</p>
     <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
-      <button style="background: #E50000; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">C#</button>
-      <button style="background: #232323; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">.NET</button>
-      <button style="background: #4CAF50; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">SQL Server</button>
-      <button style="background: #FFCC00; color: black; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Blazor</button>
+      <p style="background: #E50000; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">C#</p>
+      <p style="background: #232323; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">.NET</p>
+      <p style="background: #4CAF50; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">SQL Server</p>
+      <p style="background: #FFCC00; color: black; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Blazor</p>
     </div>
   </div>
 
   <!-- Project 2 -->
   <div style="max-width: 400px; min-height: 480px; text-align: center; background: #f8f8f8; padding: 15px; border-radius: 10px; display: flex; flex-direction: column; justify-content: space-between;">
     <h6 style="color: #E50000; font-weight: bold;">Chat Application – Real-time Messaging</h6>
-    <a href="https://github.com/athenkosimagada/SignalR-Application">
+    <a href="https://github.com/athenkosimagada/careerhive">
       <img src="https://herobot.app/wp-content/uploads/2022/11/11-Reasons-Why-A-Chat-Application-Is-Great-For-Business_1.jpg"
            style="width: 100%; aspect-ratio: 16/9; object-fit: cover; object-position: center; border-radius: 8px;" 
            alt="Chat Application" />
     </a>
     <p style="font-size: 14px; color: #333;">A full-stack real-time chat application using SignalR for WebSocket communication.</p>
     <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
-      <button style="background: #E50000; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">C#</button>
-      <button style="background: #232323; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">SignalR</button>
-      <button style="background: #4CAF50; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">.NET</button>
-      <button style="background: #FFCC00; color: black; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Angular</button>
+      <p style="background: #E50000; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">C#</p>,
+      <p style="background: #232323; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">SignalR</p>,
+      <p style="background: #4CAF50; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">.NET</p>,
+      <p style="background: #FFCC00; color: black; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Angular</p>
     </div>
   </div>
 
   <!-- Project 3 -->
   <div style="max-width: 400px; min-height: 480px; text-align: center; background: #f8f8f8; padding: 15px; border-radius: 10px; display: flex; flex-direction: column; justify-content: space-between;">
     <h6 style="color: #E50000; font-weight: bold;">Python Automation – File Management System</h6>
-    <a href="https://mbalicivilandconstruction.vercel.app/">
+    <a href="https://github.com/athenkosimagada/file-organizer">
       <img src="https://github.com/user-attachments/assets/06c9c9ad-0642-47a9-8d11-7988d4077aa3"
            style="width: 100%; aspect-ratio: 16/9; object-fit: cover; object-position: center; border-radius: 8px;" 
            alt="File Organizer" />
     </a>
     <p style="font-size: 14px; color: #333;">An automated system that organizes files based on type, date, and custom rules.</p>
     <div style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
-      <button style="background: #E50000; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Python</button>
-      <button style="background: #232323; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Watchdog</button>
+      <p style="background: #E50000; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Python</p>
+      <p style="background: #232323; color: white; padding: 5px 10px; border-radius: 5px; font-size: 12px;">Watchdog</p>
     </div>
   </div>
 
