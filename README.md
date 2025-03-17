@@ -89,7 +89,7 @@
   <!-- Project 2 -->
   <div style="max-width: 400px; min-height: 480px; text-align: center; background: #f8f8f8; padding: 15px; border-radius: 10px; display: flex; flex-direction: column; justify-content: space-between;">
     <h6 style="color: #E50000; font-weight: bold;">Chat Application – Real-time Messaging</h6>
-    <a href="https://github.com/athenkosimagada/SignalR-Applicatio">
+    <a href="https://github.com/athenkosimagada/SignalR-Application">
       <img src="https://herobot.app/wp-content/uploads/2022/11/11-Reasons-Why-A-Chat-Application-Is-Great-For-Business_1.jpg"
            style="width: 100%; aspect-ratio: 16/9; object-fit: cover; object-position: center; border-radius: 8px;" 
            alt="Chat Application" />
