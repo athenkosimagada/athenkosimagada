@@ -72,7 +72,7 @@
   <!-- Project 1 -->
   <div style="max-width: 400px; min-height: 480px; text-align: center; background: #f8f8f8; padding: 15px; border-radius: 10px; display: flex; flex-direction: column; justify-content: space-between;">
     <h6 style="color: #E50000; font-weight: bold;">Career Hive – Job Sharing & Posting Platform</h6>
-    <a href="https://github.com/athenkosimagada/SignalR-Application">
+    <a href="https://github.com/athenkosimagada/careerhive">
       <img src="https://github.com/user-attachments/assets/930aadec-d6c0-4574-8f14-91b94ee82136"
            style="width: 100%; aspect-ratio: 16/9; object-fit: cover; object-position: center; border-radius: 8px;" 
            alt="CareerHive Application" />
@@ -89,7 +89,7 @@
   <!-- Project 2 -->
   <div style="max-width: 400px; min-height: 480px; text-align: center; background: #f8f8f8; padding: 15px; border-radius: 10px; display: flex; flex-direction: column; justify-content: space-between;">
     <h6 style="color: #E50000; font-weight: bold;">Chat Application – Real-time Messaging</h6>
-    <a href="https://github.com/athenkosimagada/careerhive">
+    <a href="https://github.com/athenkosimagada/SignalR-Applicatio">
       <img src="https://herobot.app/wp-content/uploads/2022/11/11-Reasons-Why-A-Chat-Application-Is-Great-For-Business_1.jpg"
            style="width: 100%; aspect-ratio: 16/9; object-fit: cover; object-position: center; border-radius: 8px;" 
            alt="Chat Application" />
